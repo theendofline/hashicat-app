@@ -9,9 +9,9 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
+  <center><img src="https://www.terraform.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F58478%2F1650551824-block-3.png&w=1200&q=75"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  Welcome to ${PREFIX}'s app. This is the Way. 
   <!-- END -->
   
   </div>
